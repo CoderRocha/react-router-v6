@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <nav>
-          <h1>The Ninja Clothing Company</h1>
+          <h1>The Quality Clothing Company</h1>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/products">Products</Link>
