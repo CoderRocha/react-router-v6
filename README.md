@@ -29,8 +29,8 @@ It is very simple, because it's just to showcase how the new version of react-ro
 - A "Home" page showing some Products
 - An "About" page about the company
 - A specific "Products" page that lists all of the company's products
-- An "Offers" page that is nested into the application, so it can be accessed in any page by putting the "/offers" after the   
-  end of the URL
+- An "Offers" page that is nested into the application, so it can be accessed in any page by putting the "/offers"
+  after the end of the URL
 
 ## Technologies used in this project
 
